@@ -98,7 +98,7 @@ Abrir en el navegador:
 
 ---
 
-## 📚 Estructura del proyecto (fundamental)
+## 📚 Estructura del proyecto
 
 * `routes/`
   Define las rutas de la aplicación (URLs)
