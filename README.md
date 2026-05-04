@@ -2,9 +2,9 @@
 
 ## 🧾 Descripción
 
-Aplicación web construida con Laravel 13 enfocada en el aprendizaje del backend desde cero.
+Proyecto backend desarrollado con Laravel, enfocado en entender y trabajar la lógica del lado del servidor.
 
-Este proyecto sigue un enfoque práctico y progresivo para comprender cómo funciona Laravel internamente, desarrollando fundamentos sólidos en lógica, arquitectura y buenas prácticas.
+Aquí se exploran distintas partes como rutas, controladores, modelos, migraciones y validaciones, poniendo en práctica cómo se estructura una aplicación y cómo fluye la información internamente, el objetivo es crear bases en el backend.
 
 ---
 
@@ -18,8 +18,8 @@ Este proyecto sigue un enfoque práctico y progresivo para comprender cómo func
   * Controladores
   * Modelos
   * Validación (Form Requests)
-  * Vistas (Blade)
   * Base de datos
+  * Vistas (Blade) (próximamente)
 
 * Aplicar buenas prácticas
 
