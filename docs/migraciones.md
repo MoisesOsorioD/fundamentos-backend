@@ -42,7 +42,7 @@ public function down(): void
 # ¿Qué hacen estos métodos?
 
 * `up()` → crea o modifica la tabla
-* `down()` → revierte el cambio (rollback)
+* `down()` → revierte el cambio(rollback)
 
 ---
 
